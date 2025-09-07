@@ -80,7 +80,7 @@ The Library Management System (LMS) is a database-driven system designed to mana
 ---
 
 ## Contact
-For questions or support, contact Your Name  Your Email
+For questions or support, +918237362770 , Tejas Kshirsagar , Kshirsagartejas86@gmail.com
 
 ---
 
